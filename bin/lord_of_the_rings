@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require './lib/lord_of_the_rings'
+LordOfTheRings::CLI.new.call
